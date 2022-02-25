@@ -1,0 +1,5 @@
+BTC = 'BTC'
+ADA = 'ADA'
+SHIB = 'SHIB'
+ETH = 'ETH'
+EGLD = 'EGLD'
